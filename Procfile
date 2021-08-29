@@ -1,0 +1,1 @@
+web: pip install -e .; cd pylance_dash_issue_demo; gunicorn app:server
